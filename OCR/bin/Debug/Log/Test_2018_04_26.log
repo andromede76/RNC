@@ -1,0 +1,450 @@
+<LogEntry Date="2018-04-26 21:52:06" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:06" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Début du Test</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:06" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:8 Valeur reconnue:6 Valeur actuelle:5</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:07" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:115 Valeur reconnue:9 Valeur actuelle:4</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:08" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:247 Valeur reconnue:6 Valeur actuelle:4</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:08" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:259 Valeur reconnue:0 Valeur actuelle:6</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:08" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:321 Valeur reconnue:7 Valeur actuelle:2</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:09" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:381 Valeur reconnue:7 Valeur actuelle:3</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:09" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:447 Valeur reconnue:9 Valeur actuelle:4</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:09" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:449 Valeur reconnue:5 Valeur actuelle:3</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:10" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:582 Valeur reconnue:2 Valeur actuelle:8</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:11" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:619 Valeur reconnue:8 Valeur actuelle:1</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:11" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:646 Valeur reconnue:6 Valeur actuelle:2</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:11" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:707 Valeur reconnue:9 Valeur actuelle:4</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:12" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:740 Valeur reconnue:9 Valeur actuelle:4</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:12" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:774 Valeur reconnue:9 Valeur actuelle:4</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:13" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:882 Valeur reconnue:7 Valeur actuelle:9</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:13" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:938 Valeur reconnue:5 Valeur actuelle:3</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:13" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:951 Valeur reconnue:9 Valeur actuelle:5</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:13" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:1014 Valeur reconnue:5 Valeur actuelle:6</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:14" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:1062 Valeur reconnue:7 Valeur actuelle:3</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:14" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:1072 Valeur reconnue:5 Valeur actuelle:3</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:14" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:1112 Valeur reconnue:6 Valeur actuelle:4</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:15" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:1181 Valeur reconnue:1 Valeur actuelle:6</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:15" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:1226 Valeur reconnue:2 Valeur actuelle:7</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:15" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:1242 Valeur reconnue:9 Valeur actuelle:4</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:15" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:1247 Valeur reconnue:5 Valeur actuelle:9</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:15" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:1299 Valeur reconnue:7 Valeur actuelle:5</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:16" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:1319 Valeur reconnue:3 Valeur actuelle:8</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:16" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:1328 Valeur reconnue:9 Valeur actuelle:7</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:16" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:1393 Valeur reconnue:3 Valeur actuelle:5</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:17" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:1459 Valeur reconnue:3 Valeur actuelle:2</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:17" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:1500 Valeur reconnue:1 Valeur actuelle:7</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:17" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:1522 Valeur reconnue:9 Valeur actuelle:7</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:17" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:1530 Valeur reconnue:7 Valeur actuelle:8</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:17" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:1549 Valeur reconnue:6 Valeur actuelle:4</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:18" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:1681 Valeur reconnue:7 Valeur actuelle:3</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:18" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:1709 Valeur reconnue:3 Valeur actuelle:9</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:19" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:1790 Valeur reconnue:7 Valeur actuelle:2</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:20" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:1878 Valeur reconnue:3 Valeur actuelle:8</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:20" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:1901 Valeur reconnue:4 Valeur actuelle:9</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:20" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:1987 Valeur reconnue:9 Valeur actuelle:0</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:21" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:2035 Valeur reconnue:3 Valeur actuelle:5</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:21" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:2053 Valeur reconnue:9 Valeur actuelle:4</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:21" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:2109 Valeur reconnue:7 Valeur actuelle:3</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:22" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:2135 Valeur reconnue:1 Valeur actuelle:6</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:23" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:2293 Valeur reconnue:6 Valeur actuelle:9</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:23" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:2387 Valeur reconnue:1 Valeur actuelle:9</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:24" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:2426 Valeur reconnue:4 Valeur actuelle:9</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:24" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:2447 Valeur reconnue:9 Valeur actuelle:4</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:24" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:2532 Valeur reconnue:5 Valeur actuelle:6</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:25" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:2597 Valeur reconnue:3 Valeur actuelle:5</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:25" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:2654 Valeur reconnue:1 Valeur actuelle:6</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:26" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:2689 Valeur reconnue:0 Valeur actuelle:5</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:27" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:2877 Valeur reconnue:9 Valeur actuelle:4</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:27" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:2896 Valeur reconnue:0 Valeur actuelle:8</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:27" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:2927 Valeur reconnue:2 Valeur actuelle:3</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:27" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:2939 Valeur reconnue:0 Valeur actuelle:9</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:27" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:2952 Valeur reconnue:5 Valeur actuelle:3</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:27" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:2953 Valeur reconnue:5 Valeur actuelle:3</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:28" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3005 Valeur reconnue:1 Valeur actuelle:9</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:28" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3060 Valeur reconnue:7 Valeur actuelle:9</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:28" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3073 Valeur reconnue:2 Valeur actuelle:1</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:30" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3289 Valeur reconnue:9 Valeur actuelle:8</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:30" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3333 Valeur reconnue:9 Valeur actuelle:7</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:30" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3384 Valeur reconnue:0 Valeur actuelle:2</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:31" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3422 Valeur reconnue:0 Valeur actuelle:6</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:31" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3474 Valeur reconnue:7 Valeur actuelle:2</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:31" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3503 Valeur reconnue:1 Valeur actuelle:9</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:31" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3520 Valeur reconnue:4 Valeur actuelle:6</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:32" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3534 Valeur reconnue:8 Valeur actuelle:4</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:32" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3550 Valeur reconnue:5 Valeur actuelle:6</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:32" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3558 Valeur reconnue:0 Valeur actuelle:5</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:32" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3559 Valeur reconnue:0 Valeur actuelle:8</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:32" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3567 Valeur reconnue:5 Valeur actuelle:8</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:32" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3597 Valeur reconnue:3 Valeur actuelle:9</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:33" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3681 Valeur reconnue:3 Valeur actuelle:2</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:33" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3702 Valeur reconnue:3 Valeur actuelle:5</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:33" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3751 Valeur reconnue:2 Valeur actuelle:7</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:33" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3767 Valeur reconnue:2 Valeur actuelle:7</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:33" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3780 Valeur reconnue:6 Valeur actuelle:4</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:33" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3806 Valeur reconnue:7 Valeur actuelle:5</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:33" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3808 Valeur reconnue:8 Valeur actuelle:7</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:33" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3811 Valeur reconnue:3 Valeur actuelle:2</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:34" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3869 Valeur reconnue:4 Valeur actuelle:9</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:34" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3941 Valeur reconnue:6 Valeur actuelle:4</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:34" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3951 Valeur reconnue:9 Valeur actuelle:8</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:35" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:3995 Valeur reconnue:5 Valeur actuelle:3</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:35" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:4075 Valeur reconnue:6 Valeur actuelle:8</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:35" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:4078 Valeur reconnue:3 Valeur actuelle:9</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:36" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:4163 Valeur reconnue:0 Valeur actuelle:9</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:36" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:4176 Valeur reconnue:7 Valeur actuelle:2</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:36" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:4201 Valeur reconnue:7 Valeur actuelle:1</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:36" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:4224 Valeur reconnue:7 Valeur actuelle:9</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:37" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:4248 Valeur reconnue:8 Valeur actuelle:2</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:37" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:4265 Valeur reconnue:9 Valeur actuelle:4</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:37" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:4284 Valeur reconnue:5 Valeur actuelle:9</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:37" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:4289 Valeur reconnue:7 Valeur actuelle:2</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:38" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:4497 Valeur reconnue:7 Valeur actuelle:8</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:38" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:4507 Valeur reconnue:2 Valeur actuelle:1</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:39" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:4571 Valeur reconnue:0 Valeur actuelle:6</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:39" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:4639 Valeur reconnue:9 Valeur actuelle:8</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:40" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:4740 Valeur reconnue:5 Valeur actuelle:3</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:41" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:4807 Valeur reconnue:5 Valeur actuelle:8</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:41" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:4814 Valeur reconnue:0 Valeur actuelle:6</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:41" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:4823 Valeur reconnue:4 Valeur actuelle:9</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:41" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:4874 Valeur reconnue:0 Valeur actuelle:9</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:41" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:4929 Valeur reconnue:9 Valeur actuelle:4</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:45" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:5331 Valeur reconnue:6 Valeur actuelle:1</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:46" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:5450 Valeur reconnue:5 Valeur actuelle:0</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:46" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:5457 Valeur reconnue:8 Valeur actuelle:1</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:47" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:5634 Valeur reconnue:3 Valeur actuelle:2</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:48" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:5653 Valeur reconnue:8 Valeur actuelle:0</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:48" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:5734 Valeur reconnue:7 Valeur actuelle:3</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:50" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:5887 Valeur reconnue:9 Valeur actuelle:7</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:50" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:5888 Valeur reconnue:6 Valeur actuelle:4</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:50" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:5937 Valeur reconnue:3 Valeur actuelle:5</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:50" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:5955 Valeur reconnue:8 Valeur actuelle:3</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:50" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:5973 Valeur reconnue:8 Valeur actuelle:3</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:51" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:5997 Valeur reconnue:9 Valeur actuelle:5</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:51" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:6023 Valeur reconnue:9 Valeur actuelle:3</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:55" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:6553 Valeur reconnue:9 Valeur actuelle:4</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:55" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:6555 Valeur reconnue:9 Valeur actuelle:8</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:55" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:6558 Valeur reconnue:5 Valeur actuelle:6</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:55" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:6559 Valeur reconnue:7 Valeur actuelle:4</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:55" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:6571 Valeur reconnue:7 Valeur actuelle:9</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:55" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:6597 Valeur reconnue:7 Valeur actuelle:0</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:55" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:6603 Valeur reconnue:7 Valeur actuelle:8</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:56" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:6651 Valeur reconnue:6 Valeur actuelle:0</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:52:57" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:6783 Valeur reconnue:6 Valeur actuelle:1</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:53:07" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:8255 Valeur reconnue:7 Valeur actuelle:4</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:53:08" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:8325 Valeur reconnue:6 Valeur actuelle:0</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:53:09" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:8408 Valeur reconnue:5 Valeur actuelle:8</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:53:09" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:8527 Valeur reconnue:9 Valeur actuelle:4</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:53:13" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:9009 Valeur reconnue:2 Valeur actuelle:7</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:53:15" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:9280 Valeur reconnue:5 Valeur actuelle:8</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:53:18" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:9544 Valeur reconnue:7 Valeur actuelle:9</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:53:19" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:9620 Valeur reconnue:7 Valeur actuelle:9</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:53:19" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:9634 Valeur reconnue:1 Valeur actuelle:0</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:53:19" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:9642 Valeur reconnue:7 Valeur actuelle:9</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:53:19" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:9664 Valeur reconnue:7 Valeur actuelle:2</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:53:19" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:9669 Valeur reconnue:7 Valeur actuelle:4</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:53:19" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:9679 Valeur reconnue:3 Valeur actuelle:6</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:53:19" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:9692 Valeur reconnue:7 Valeur actuelle:9</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:53:20" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:9729 Valeur reconnue:6 Valeur actuelle:5</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:53:20" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:9770 Valeur reconnue:0 Valeur actuelle:5</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:53:20" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:9792 Valeur reconnue:9 Valeur actuelle:4</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:53:21" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Pattern No:9850 Valeur reconnue:6 Valeur actuelle:0</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:54:25" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="6">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2018-04-26 21:54:25" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="6">
+  <Message>Début du Test</Message>
+</LogEntry>

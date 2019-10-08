@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{87E37B00-A890-4E1C-AD24-9A4249CC0683}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RNC</RootNamespace>
+    <AssemblyName>RNC</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Activation Fonctions\Hyperbolic.cs" />
+    <Compile Include="Activation Fonctions\IActivateFunction.cs" />
+    <Compile Include="Activation Fonctions\Relu.cs" />
+    <Compile Include="Activation Fonctions\Sigmoid.cs" />
+    <Compile Include="Activation Fonctions\StepFunction.cs" />
+    <Compile Include="Couches\CoucheConvolution.cs" />
+    <Compile Include="Couches\CoucheSimple.cs" />
+    <Compile Include="Couches\CoucheSupConvolution.cs" />
+    <Compile Include="Couches\CoucheEntree.cs" />
+    <Compile Include="Couches\CoucheFullConnecte.cs" />
+    <Compile Include="Couches\CoucheSortie.cs" />
+    <Compile Include="CryptoRandom.cs" />
+    <Compile Include="Dentrite.cs" />
+    <Compile Include="Couches\CoucheBase.cs" />
+    <Compile Include="Donnees\MnistDatabase.cs" />
+    <Compile Include="Donnees\MnistImage.cs" />
+    <Compile Include="HiPerfTimer.cs" />
+    <Compile Include="Neurones\Neurone.cs" />
+    <Compile Include="Neurones\NeuroneSortie.cs" />
+    <Compile Include="Neurones\NeuroneSortieListe.cs" />
+    <Compile Include="Poids.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reseau\Archive.cs" />
+    <Compile Include="Reseau\ErreurListe.cs" />
+    <Compile Include="Reseau\ForwardPropagation.cs" />
+    <Compile Include="Reseau\ReseauNeurone.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ReleaseNotes.css" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

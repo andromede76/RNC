@@ -1,0 +1,28 @@
+C:\DEV\RECODOC\DEV\FormPrincipal\RNC\bin\Debug\RNC.dll
+C:\DEV\RECODOC\DEV\FormPrincipal\RNC\bin\Debug\RNC.pdb
+C:\DEV\RECODOC\DEV\FormPrincipal\RNC\obj\Debug\RNC.csprojResolveAssemblyReference.cache
+C:\DEV\RECODOC\DEV\FormPrincipal\RNC\obj\Debug\RNC.dll
+C:\DEV\RECODOC\DEV\FormPrincipal\RNC\obj\Debug\RNC.pdb
+C:\DEV\RECODOC\Version 2\DEV\FormPrincipal\RNC\bin\Debug\RNC.dll
+C:\DEV\RECODOC\Version 2\DEV\FormPrincipal\RNC\bin\Debug\RNC.pdb
+C:\DEV\RECODOC\Version 2\DEV\FormPrincipal\RNC\obj\Debug\RNC.dll
+C:\DEV\RECODOC\Version 2\DEV\FormPrincipal\RNC\obj\Debug\RNC.pdb
+C:\DEV\RECODOC\Version 3\DEV\FormPrincipal\RNC\bin\Debug\RNC.dll
+C:\DEV\RECODOC\Version 3\DEV\FormPrincipal\RNC\bin\Debug\RNC.pdb
+C:\DEV\RECODOC\Version 3\DEV\FormPrincipal\RNC\obj\Debug\RNC.dll
+C:\DEV\RECODOC\Version 3\DEV\FormPrincipal\RNC\obj\Debug\RNC.pdb
+C:\DEV\RECODOC\Version 3\DEV\FormPrincipal\RNC\obj\Debug\RNC.csprojResolveAssemblyReference.cache
+C:\DEV\RECODOC\Version 4\DEV\FormPrincipal\RNC\bin\Debug\RNC.dll
+C:\DEV\RECODOC\Version 4\DEV\FormPrincipal\RNC\bin\Debug\RNC.pdb
+C:\DEV\RECODOC\Version 4\DEV\FormPrincipal\RNC\obj\Debug\RNC.csprojResolveAssemblyReference.cache
+C:\DEV\RECODOC\Version 4\DEV\FormPrincipal\RNC\obj\Debug\RNC.dll
+C:\DEV\RECODOC\Version 4\DEV\FormPrincipal\RNC\obj\Debug\RNC.pdb
+C:\DEV\RECODOC\Version 5\DEV\FormPrincipal\RNC\bin\Debug\RNC.dll
+C:\DEV\RECODOC\Version 5\DEV\FormPrincipal\RNC\bin\Debug\RNC.pdb
+C:\DEV\RECODOC\Version 5\DEV\FormPrincipal\RNC\obj\Debug\RNC.dll
+C:\DEV\RECODOC\Version 5\DEV\FormPrincipal\RNC\obj\Debug\RNC.pdb
+C:\RECO\LIB\Version 5\DEV\FormPrincipal\RNC\bin\Debug\RNC.dll
+C:\RECO\LIB\Version 5\DEV\FormPrincipal\RNC\bin\Debug\RNC.pdb
+C:\RECO\LIB\Version 5\DEV\FormPrincipal\RNC\obj\Debug\RNC.dll
+C:\RECO\LIB\Version 5\DEV\FormPrincipal\RNC\obj\Debug\RNC.pdb
+C:\RECO\LIB\Version 5\DEV\FormPrincipal\RNC\obj\Debug\RNC.csprojResolveAssemblyReference.cache

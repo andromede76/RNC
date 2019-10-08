@@ -1,0 +1,15 @@
+<LogEntry Date="2017-11-05 15:40:04" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="11">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-11-05 15:40:04" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="11">
+  <Message>Début du Test</Message>
+</LogEntry>
+<LogEntry Date="2017-11-05 15:41:01" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="11">
+  <Message>Pattern No:115 Valeur reconnue:9 Valeur actuelle:4</Message>
+</LogEntry>
+<LogEntry Date="2017-11-05 18:05:03" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-11-05 18:05:03" Severity="Info" Source="OCR.RNN.Test.TestThread" ThreadId="12">
+  <Message>Début du Test</Message>
+</LogEntry>

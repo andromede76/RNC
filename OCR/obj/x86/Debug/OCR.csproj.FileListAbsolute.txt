@@ -1,0 +1,68 @@
+C:\DEV\RECODOC\OCR\bin\Debug\OCR.exe.config
+C:\DEV\RECODOC\OCR\obj\x86\Debug\OCR.csprojResolveAssemblyReference.cache
+C:\DEV\RECODOC\OCR\obj\x86\Debug\OCR.FormPrincipal.resources
+C:\DEV\RECODOC\OCR\obj\x86\Debug\OCR.Properties.Resources.resources
+C:\DEV\RECODOC\OCR\obj\x86\Debug\OCR.csproj.GenerateResource.Cache
+C:\DEV\RECODOC\OCR\bin\Debug\OCR.exe
+C:\DEV\RECODOC\OCR\bin\Debug\OCR.pdb
+C:\DEV\RECODOC\OCR\bin\Debug\RNC.dll
+C:\DEV\RECODOC\OCR\bin\Debug\ToolsImages.dll
+C:\DEV\RECODOC\OCR\bin\Debug\RNC.pdb
+C:\DEV\RECODOC\OCR\bin\Debug\ToolsImages.pdb
+C:\DEV\RECODOC\OCR\obj\x86\Debug\OCR.exe
+C:\DEV\RECODOC\OCR\obj\x86\Debug\OCR.pdb
+C:\DEV\RECODOC\Version 2\OCR\bin\Debug\OCR.exe.config
+C:\DEV\RECODOC\Version 2\OCR\obj\x86\Debug\OCR.exe
+C:\DEV\RECODOC\Version 2\OCR\obj\x86\Debug\OCR.pdb
+C:\DEV\RECODOC\Version 2\OCR\bin\Debug\OCR.exe
+C:\DEV\RECODOC\Version 2\OCR\bin\Debug\OCR.pdb
+C:\DEV\RECODOC\Version 2\OCR\bin\Debug\RNC.dll
+C:\DEV\RECODOC\Version 2\OCR\bin\Debug\ToolsImages.dll
+C:\DEV\RECODOC\Version 2\OCR\bin\Debug\RNC.pdb
+C:\DEV\RECODOC\Version 2\OCR\bin\Debug\ToolsImages.pdb
+C:\DEV\RECODOC\Version 2\OCR\obj\x86\Debug\OCR.csprojResolveAssemblyReference.cache
+C:\DEV\RECODOC\Version 2\OCR\obj\x86\Debug\OCR.FormPrincipal.resources
+C:\DEV\RECODOC\Version 2\OCR\obj\x86\Debug\OCR.Properties.Resources.resources
+C:\DEV\RECODOC\Version 2\OCR\obj\x86\Debug\OCR.csproj.GenerateResource.Cache
+C:\DEV\RECODOC\Version 3\OCR\bin\Debug\OCR.exe.config
+C:\DEV\RECODOC\Version 3\OCR\obj\x86\Debug\OCR.exe
+C:\DEV\RECODOC\Version 3\OCR\obj\x86\Debug\OCR.pdb
+C:\DEV\RECODOC\Version 3\OCR\bin\Debug\OCR.exe
+C:\DEV\RECODOC\Version 3\OCR\bin\Debug\OCR.pdb
+C:\DEV\RECODOC\Version 3\OCR\bin\Debug\RNC.dll
+C:\DEV\RECODOC\Version 3\OCR\bin\Debug\ToolsImages.dll
+C:\DEV\RECODOC\Version 3\OCR\bin\Debug\RNC.pdb
+C:\DEV\RECODOC\Version 3\OCR\bin\Debug\ToolsImages.pdb
+C:\DEV\RECODOC\Version 3\OCR\obj\x86\Debug\OCR.csprojResolveAssemblyReference.cache
+C:\DEV\RECODOC\Version 3\OCR\obj\x86\Debug\OCR.FormPrincipal.resources
+C:\DEV\RECODOC\Version 3\OCR\obj\x86\Debug\OCR.Properties.Resources.resources
+C:\DEV\RECODOC\Version 3\OCR\obj\x86\Debug\OCR.csproj.GenerateResource.Cache
+C:\DEV\RECODOC\Version 4\OCR\bin\Debug\OCR.exe.config
+C:\DEV\RECODOC\Version 4\OCR\obj\x86\Debug\OCR.exe
+C:\DEV\RECODOC\Version 4\OCR\obj\x86\Debug\OCR.pdb
+C:\DEV\RECODOC\Version 4\OCR\bin\Debug\OCR.exe
+C:\DEV\RECODOC\Version 4\OCR\bin\Debug\OCR.pdb
+C:\DEV\RECODOC\Version 4\OCR\bin\Debug\RNC.dll
+C:\DEV\RECODOC\Version 4\OCR\bin\Debug\ToolsImages.dll
+C:\DEV\RECODOC\Version 4\OCR\bin\Debug\RNC.pdb
+C:\DEV\RECODOC\Version 4\OCR\bin\Debug\ToolsImages.pdb
+C:\DEV\RECODOC\Version 4\OCR\obj\x86\Debug\OCR.csprojResolveAssemblyReference.cache
+C:\DEV\RECODOC\Version 4\OCR\obj\x86\Debug\OCR.FormPrincipal.resources
+C:\DEV\RECODOC\Version 4\OCR\obj\x86\Debug\OCR.Properties.Resources.resources
+C:\DEV\RECODOC\Version 4\OCR\obj\x86\Debug\OCR.csproj.GenerateResource.Cache
+C:\DEV\RECODOC\Version 5\OCR\bin\Debug\OCR.exe
+C:\DEV\RECODOC\Version 5\OCR\obj\x86\Debug\OCR.csprojResolveAssemblyReference.cache
+C:\DEV\RECODOC\Version 5\OCR\obj\x86\Debug\OCR.FormPrincipal.resources
+C:\DEV\RECODOC\Version 5\OCR\obj\x86\Debug\OCR.Properties.Resources.resources
+C:\DEV\RECODOC\Version 5\OCR\obj\x86\Debug\OCR.csproj.GenerateResource.Cache
+C:\DEV\RECODOC\Version 5\OCR\bin\Debug\OCR.exe.config
+C:\DEV\RECODOC\Version 5\OCR\bin\Debug\OCR.pdb
+C:\DEV\RECODOC\Version 5\OCR\bin\Debug\RNC.dll
+C:\DEV\RECODOC\Version 5\OCR\bin\Debug\ToolsImages.dll
+C:\DEV\RECODOC\Version 5\OCR\bin\Debug\RNC.pdb
+C:\DEV\RECODOC\Version 5\OCR\bin\Debug\ToolsImages.pdb
+C:\DEV\RECODOC\Version 5\OCR\obj\x86\Debug\OCR.exe
+C:\DEV\RECODOC\Version 5\OCR\obj\x86\Debug\OCR.pdb
+C:\RECO\LIB\Version 5\OCR\bin\Debug\OCR.exe.config
+C:\RECO\LIB\Version 5\OCR\obj\x86\Debug\OCR.exe
+C:\RECO\LIB\Version 5\OCR\obj\x86\Debug\OCR.pdb

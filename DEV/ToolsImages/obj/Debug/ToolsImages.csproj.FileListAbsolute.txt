@@ -1,0 +1,19 @@
+C:\DEV\RECODOC\DEV\ToolsImages\bin\Debug\ToolsImages.dll
+C:\DEV\RECODOC\DEV\ToolsImages\bin\Debug\ToolsImages.pdb
+C:\DEV\RECODOC\DEV\ToolsImages\obj\Debug\ToolsImages.csprojResolveAssemblyReference.cache
+C:\DEV\RECODOC\DEV\ToolsImages\obj\Debug\ToolsImages.dll
+C:\DEV\RECODOC\DEV\ToolsImages\obj\Debug\ToolsImages.pdb
+C:\DEV\RECODOC\Version 2\DEV\ToolsImages\bin\Debug\ToolsImages.dll
+C:\DEV\RECODOC\Version 2\DEV\ToolsImages\bin\Debug\ToolsImages.pdb
+C:\DEV\RECODOC\Version 2\DEV\ToolsImages\obj\Debug\ToolsImages.dll
+C:\DEV\RECODOC\Version 2\DEV\ToolsImages\obj\Debug\ToolsImages.pdb
+C:\DEV\RECODOC\Version 4\DEV\ToolsImages\bin\Debug\ToolsImages.dll
+C:\DEV\RECODOC\Version 4\DEV\ToolsImages\bin\Debug\ToolsImages.pdb
+C:\DEV\RECODOC\Version 4\DEV\ToolsImages\obj\Debug\ToolsImages.csprojResolveAssemblyReference.cache
+C:\DEV\RECODOC\Version 4\DEV\ToolsImages\obj\Debug\ToolsImages.dll
+C:\DEV\RECODOC\Version 4\DEV\ToolsImages\obj\Debug\ToolsImages.pdb
+C:\DEV\RECODOC\Version 5\DEV\ToolsImages\bin\Debug\ToolsImages.dll
+C:\DEV\RECODOC\Version 5\DEV\ToolsImages\bin\Debug\ToolsImages.pdb
+C:\DEV\RECODOC\Version 5\DEV\ToolsImages\obj\Debug\ToolsImages.dll
+C:\DEV\RECODOC\Version 5\DEV\ToolsImages\obj\Debug\ToolsImages.pdb
+C:\DEV\RECODOC\Version 5\DEV\ToolsImages\obj\Debug\ToolsImages.csprojResolveAssemblyReference.cache
